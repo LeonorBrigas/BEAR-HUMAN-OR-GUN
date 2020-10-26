@@ -1,0 +1,44 @@
+body {
+    font-family: 'Sniglet', cursive;
+    margin: 0px;
+    padding: 20px;
+    text-align: ccenter;
+    background-image: url(https://cdn.dribbble.com/users/44585/screenshots/11480894/media/dbcd009f7caab83ae234ee20f6deeaf5.png);
+  }
+
+  .display {
+    margin: auto;
+    padding: 10px;
+    width: 600px;
+    height: auto;
+    color: #698F3F;
+    background-color: #FFF;
+    opacity: 0.8;
+    font-size: 32px;
+    font-weight: bold;
+    border: 2px #804E49 solid;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;;
+  }
+
+  .choices {
+    margin: auto;
+    padding: 10px;
+    width: 600px;
+    font-size: 32px;
+    height: auto;
+    color: #804E49;
+    text-shadow: rgba(0,0,0, 0.8);
+    border: 2px #804E49 solid;
+    border-radius: 20px;
+    background-color: #FFF;
+    opacity: 0.8;
+    text-align: center;
+  }
+
+  p > b {
+    color: #698F3F;
+    text-shadow: rgba(0,0,0, 0.8);
+  }
